@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/prog++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\tes.dir\\main.obj -c C:\\prog++\\main.cpp",
+  "file": "C:\\prog++\\main.cpp",
+  "output": "CMakeFiles\\tes.dir\\main.obj"
+}
+]
